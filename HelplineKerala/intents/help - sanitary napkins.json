@@ -1,0 +1,42 @@
+{
+  "id": "508e9a65-5a2f-489d-8ade-f3176b04aa90",
+  "name": "help - sanitary napkins",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.help-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23b5840d-06be-4105-a3e2-bf52ddb65e62",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please contact +919809889999 Edukkatuvayal Warehouse, Kochi. Sanitary napkins are available in a bundle of 500 numbers at 2.5 rs each.  Anything else you need?",
+            "Please contact +919061335779 . Anything else you need?",
+            "please contact Mr Dhruvan on +91 7907661824. Be safe. Anything else you need?",
+            "You may contact Siva Prasad on +917012320398. Stay safe. Anything else you need?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534850196,
+  "fallbackIntent": false,
+  "events": []
+}

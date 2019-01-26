@@ -1,0 +1,40 @@
+{
+  "id": "bb0ce32f-91bd-4504-a49a-d4e9dfe2e34c",
+  "name": "help - rescue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.help-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "871b8583-acaa-4a3d-ae09-00e1fd8f5263",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please call +9182810066668 or +919946639104 or call +917907206027 for any emergency. You can also contact Ernakulam control room on 04842422282. For airlift, you can call +917760347583. Anything else you need?",
+            "Please call +917902200400 or +917902200300. Anything else you need?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534850064,
+  "fallbackIntent": false,
+  "events": []
+}

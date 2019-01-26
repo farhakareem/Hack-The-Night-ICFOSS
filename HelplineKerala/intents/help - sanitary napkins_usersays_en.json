@@ -1,0 +1,84 @@
+[
+  {
+    "id": "7bb62265-e89f-44ef-8036-bb3860a40728",
+    "data": [
+      {
+        "text": "sanitary napkins",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850196
+  },
+  {
+    "id": "37d93803-a4d0-4d33-91e1-7f9f817bce1e",
+    "data": [
+      {
+        "text": "pads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850196
+  },
+  {
+    "id": "1ccd6489-61b7-4faa-8a35-abe9dce57e63",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " pads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850196
+  },
+  {
+    "id": "72c2ea5a-8aa2-47bf-8701-3b3416585c05",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sanitary napkins",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850196
+  },
+  {
+    "id": "e7dd3964-b78d-45ae-a6ed-ffc39bb35928",
+    "data": [
+      {
+        "text": "menstrual pads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850196
+  }
+]

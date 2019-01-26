@@ -1,0 +1,35 @@
+{
+  "id": "6eea18c5-e0a0-471f-8723-bbbcd70450fa",
+  "name": "Soaps towels candles matchbox",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6c9afcc8-6b93-4122-98b6-0e2ebbf6f0f1",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please contact Sujith on +91 7593880402. He\u0027s the POC at Gate 4, Lulu Bolgatty International Convention Centre. You can get the items between 9 a.m. and 4 p.m. Be safe. Anything else you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534849281,
+  "fallbackIntent": false,
+  "events": []
+}

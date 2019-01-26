@@ -1,0 +1,37 @@
+{
+  "id": "b608aeb8-9ee7-47a0-8139-ee4743f25d92",
+  "name": "help - medical service",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.help-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7a3b0be3-cfa1-4c63-bbfa-b41b960615ab",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please contact +919946992995 for any medical assistance in Ernakulam district. Anything else you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534850423,
+  "fallbackIntent": false,
+  "events": []
+}

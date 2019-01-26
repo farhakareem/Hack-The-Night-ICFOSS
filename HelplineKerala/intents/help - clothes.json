@@ -1,0 +1,37 @@
+{
+  "id": "b18efcda-32e9-4f70-8d4f-e90d734ec0de",
+  "name": "help - clothes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.help-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f15a626a-22d9-421d-9690-e1ed155e27a3",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please contact Sujith on +91 7593880402 for lungis, nighties and undergarments. He\u0027s the POC at Gate 4, Lulu Bolgatty International Convention Centre. You can get the resources between 9 a.m. and 4 p.m. Anything else you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534848034,
+  "fallbackIntent": false,
+  "events": []
+}

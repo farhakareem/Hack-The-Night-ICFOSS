@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1a78cc69-9153-4497-a3a4-d1c37d218e52",
+    "data": [
+      {
+        "text": "We need",
+        "alias": "needed",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534845840
+  },
+  {
+    "id": "77730dc0-f58b-4a8f-a87e-74c01a3e754f",
+    "data": [
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "needed",
+        "alias": "needed",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534845840
+  },
+  {
+    "id": "696a9e13-f147-4cf8-85cb-6cba8a996b05",
+    "data": [
+      {
+        "text": "I am",
+        "alias": "needed",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hungry",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535552845
+  },
+  {
+    "id": "149b29ce-0301-47a0-b973-5a2495b45fbf",
+    "data": [
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534845840
+  },
+  {
+    "id": "fd389dbb-da50-4e69-843e-0f4c9d7bfe16",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "needed",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eatables",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534845840
+  },
+  {
+    "id": "200d264a-3015-4b10-8eb5-f87d815dacd5",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "needed",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534845840
+  }
+]

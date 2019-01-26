@@ -1,0 +1,39 @@
+{
+  "id": "ef6aa82a-141f-4f52-84cb-d407d32a3a7b",
+  "name": "Help-water",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eef91a3e-854d-48a2-8213-046c57b62dde",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "If water and food is required please contact Mr.Sunith from Krithyam infopark , +919496043478. Anything else you need?",
+            "Please contact Sujith on +917593880402. He is the POC for supply at Gate 4, Lulu Bolgatty International Convention centre between 9 a.m and 4 p.m. Anything else you need?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534848460,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "009e9f58-5167-4d72-9c2b-b89c04b592cc",
+  "name": "help - bed sheet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.help-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7c38e438-3fb1-4e62-a352-9836e34caff0",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please contact Sujith on +91 7593880402 for blankets or bed sheets. He\u0027s the POC at Gate 4, Lulu Bolgatty International Convention Centre. You can get the resources between 9 a.m. and 4 p.m. Anything else that you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534850286,
+  "fallbackIntent": false,
+  "events": []
+}

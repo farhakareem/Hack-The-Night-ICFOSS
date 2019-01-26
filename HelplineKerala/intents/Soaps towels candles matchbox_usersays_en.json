@@ -1,0 +1,118 @@
+[
+  {
+    "id": "07b761bb-b337-42a2-a33d-6edb5c2dddc9",
+    "data": [
+      {
+        "text": "candles ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " matchbox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849281
+  },
+  {
+    "id": "ffc28060-ba99-4013-8b3b-c8ecf4c78325",
+    "data": [
+      {
+        "text": "soap ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " towel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849281
+  },
+  {
+    "id": "d4055aab-6e50-406e-865e-8918a1d916b4",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " soap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849281
+  },
+  {
+    "id": "356a71dc-98bb-43f2-adcc-94aac15430ab",
+    "data": [
+      {
+        "text": "i need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " candles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849281
+  },
+  {
+    "id": "aaad88c5-9dc6-4b85-a065-4dc0dc6e6820",
+    "data": [
+      {
+        "text": "i need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " towels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849281
+  },
+  {
+    "id": "1c677128-f5dc-446e-9e65-bd416ee98bf1",
+    "data": [
+      {
+        "text": "i need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " matchbox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849281
+  }
+]

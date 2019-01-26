@@ -1,0 +1,41 @@
+{
+  "id": "972c5398-b5b1-4285-818f-8efb877d9ce9",
+  "name": "help - transport",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.help-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33cb512f-9ef0-479d-b1a5-58c4427098bf",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "transport",
+          "value": "$transport",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please contact All Kerala Lorry Owners to transport necessary goods in +919447621069 or +919037747659. Anything else you need?",
+            "Please use Uber Flood Relief option."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534849849,
+  "fallbackIntent": false,
+  "events": []
+}

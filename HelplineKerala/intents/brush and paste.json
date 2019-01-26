@@ -1,0 +1,37 @@
+{
+  "id": "94f823e2-84ea-4302-9947-1d4f82602041",
+  "name": "brush and paste",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2a7af6a1-1b43-4fd9-b6d1-1773bf2b94e7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please contact Sujith on +91 7593880402. He\u0027s the POC at Gate 4, Lulu Bolgatty International Convention Centre. You can get the items between 9 a.m. and 4 p.m. Be safe. Anything else you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534849437,
+  "fallbackIntent": false,
+  "events": []
+}

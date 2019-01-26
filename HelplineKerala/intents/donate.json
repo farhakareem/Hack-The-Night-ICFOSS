@@ -1,0 +1,37 @@
+{
+  "id": "893aca88-26a5-45af-ad88-9c402bccc5c8",
+  "name": "donate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8816ca01-555d-4be9-9d89-804cfddedf8c",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can donate money to Kerala CM\u0027s Distress Relief Fund using Pay tm or you could donate meals using Zomato app. Stay safe. Thank you. Anything else that you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534850661,
+  "fallbackIntent": false,
+  "events": []
+}

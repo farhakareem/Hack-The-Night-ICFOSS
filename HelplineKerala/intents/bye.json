@@ -1,0 +1,36 @@
+{
+  "id": "fe468c7d-3bf6-4040-9c5f-dcf0916b520a",
+  "name": "bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d7fbb55f-d87e-4945-9fe7-ec8f7749f90a",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Stay safe. Bye."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534854255,
+  "fallbackIntent": false,
+  "events": []
+}

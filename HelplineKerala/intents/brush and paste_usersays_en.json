@@ -1,0 +1,86 @@
+[
+  {
+    "id": "26af44bb-43ad-4a26-ab96-f3836bab3eee",
+    "data": [
+      {
+        "text": "i need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " paste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849419
+  },
+  {
+    "id": "0f693189-bb0d-4132-9c10-33a4a348fb51",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " toothbrush",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849419
+  },
+  {
+    "id": "c924c6df-96e0-49cc-9402-a5c61a0730d6",
+    "data": [
+      {
+        "text": "brush",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849419
+  },
+  {
+    "id": "63b5f076-011a-494f-92e8-95cd69a2f3d6",
+    "data": [
+      {
+        "text": "paste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849419
+  },
+  {
+    "id": "deaeb091-9604-4f41-80ac-13aeb5111425",
+    "data": [
+      {
+        "text": "Brush and paste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849419
+  },
+  {
+    "id": "56e41ecf-f390-49e7-9b03-04d31070e81e",
+    "data": [
+      {
+        "text": "toothbrush",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849419
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "be47df22-d3ac-424f-856e-8c865c90005a",
+    "data": [
+      {
+        "text": "request for ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850726
+  },
+  {
+    "id": "70e41846-d8ef-4bd7-8eb8-fbec18e07d76",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850726
+  },
+  {
+    "id": "28ca4514-6212-44bb-8feb-0c403e464886",
+    "data": [
+      {
+        "text": "I am here to request for ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850726
+  },
+  {
+    "id": "ae154a0b-4343-407d-9503-0d8f53588a29",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850726
+  },
+  {
+    "id": "8f502c0d-1044-4155-96f4-d68b1b3875f3",
+    "data": [
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ", please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850726
+  },
+  {
+    "id": "3c64fb8d-34d8-4989-91dc-a681c0cbfcb3",
+    "data": [
+      {
+        "text": "I am here to ask for ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534850726
+  }
+]

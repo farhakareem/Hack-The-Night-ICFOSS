@@ -1,0 +1,133 @@
+[
+  {
+    "id": "32da47a4-8216-4a66-8e87-f2ff9547da0e",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "lorry",
+        "alias": "transport",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "transport",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534654802
+  },
+  {
+    "id": "e15ca6c8-75b5-46f1-83eb-a35909a0f33c",
+    "data": [
+      {
+        "text": "lorry",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534654802
+  },
+  {
+    "id": "07a6652c-faf8-4e0b-9ffe-888d8b05efac",
+    "data": [
+      {
+        "text": "car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849849
+  },
+  {
+    "id": "7ec6bb85-f3d0-47e6-a77a-427a317dda95",
+    "data": [
+      {
+        "text": "truck",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534654802
+  },
+  {
+    "id": "b00ed1fc-97c7-4dda-b3f9-4948daf622a4",
+    "data": [
+      {
+        "text": "transport",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534654802
+  },
+  {
+    "id": "8ebaa6c9-08cb-45b8-b671-3f1622b81cfb",
+    "data": [
+      {
+        "text": "vehicle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534849849
+  },
+  {
+    "id": "c240a25e-9151-4434-b948-7c3a6ecc6b2f",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "transport",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "transport",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "facility",
+        "alias": "transport",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534654802
+  }
+]

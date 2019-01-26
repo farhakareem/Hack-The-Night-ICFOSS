@@ -1,0 +1,145 @@
+[
+  {
+    "id": "67f3cc69-adf1-4d32-b12f-0c265c48471d",
+    "data": [
+      {
+        "text": "medical needs",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534848213
+  },
+  {
+    "id": "d85d706e-ccfd-4977-93a2-c67ce037756d",
+    "data": [
+      {
+        "text": "medical",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534848213
+  },
+  {
+    "id": "11a2ada3-dfb6-44db-bc51-9ddb2d37fcf9",
+    "data": [
+      {
+        "text": "I need a",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medical service.",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850423
+  },
+  {
+    "id": "ed2c29e6-d69e-4099-a20c-d0b2412e427e",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medicines",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850423
+  },
+  {
+    "id": "ef28aebd-ba97-4010-b602-2d47a3707981",
+    "data": [
+      {
+        "text": "I need to go to a",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hospital",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850423
+  },
+  {
+    "id": "55c74bfe-e6c2-45e4-a57d-5f5a01d0c615",
+    "data": [
+      {
+        "text": "I need to meet a",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850423
+  },
+  {
+    "id": "ef5c3041-0fc0-46c1-b1c9-74288fcb75d0",
+    "data": [
+      {
+        "text": "medical service",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534848213
+  }
+]

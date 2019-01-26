@@ -1,0 +1,38 @@
+{
+  "id": "98ef05e3-e915-4f90-aa56-83c1905bf33c",
+  "name": "help - food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.help-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "00a3a0d1-78a2-4ae3-b1e1-4e235324951d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "needed",
+          "value": "$needed",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please contact Sujith on +91 7593880402. He\u0027s the POC at Gate 4, Lulu Bolgatty International Convention Centre. You can get food between 9 a.m. and 4 p.m. Anything else you need?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535552845,
+  "fallbackIntent": false,
+  "events": []
+}

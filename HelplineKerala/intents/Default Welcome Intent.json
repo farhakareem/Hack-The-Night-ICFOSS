@@ -1,0 +1,68 @@
+{
+  "id": "c1faf60e-59c8-49e1-b58c-83587260b820",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Kerala Rescue",
+          "subtitle": "Website",
+          "formattedText": "The oficial website for Kerala Rescue developed by Biswas and team.",
+          "image": {
+            "url": "https://www.google.co.in/imgres?imgurl\u003dhttps%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1951794344890366\u0026imgrefurl\u003dhttps%3A%2F%2Fhi-in.facebook.com%2Fsadhikaofficialpage%2Fphotos%2Fhttpwwwkeralarescuein%2F1951794344890366%2F\u0026docid\u003dNFekrSvOid0z6M\u0026tbnid\u003doPjPZVGqp5uYrM%3A\u0026vet\u003d10ahUKEwjd3eCHj__dAhVLSX0KHVHkA6IQMwhLKBcwFw..i\u0026w\u003d960\u0026h\u003d710\u0026bih\u003d626\u0026biw\u003d1366\u0026q\u003dKerala%20rescue.in\u0026ved\u003d0ahUKEwjd3eCHj__dAhVLSX0KHVHkA6IQMwhLKBcwFw\u0026iact\u003dmrc\u0026uact\u003d8",
+            "accessibilityText": "Kerala Rescue"
+          },
+          "buttons": [
+            {
+              "title": "Keralarescue.in",
+              "openUrlAction": {
+                "url": "https://keralarescue.in/"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Donate"
+            },
+            {
+              "title": "Request for Help"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello! Kerala is facing the worst floods in 100 years. We know the condition is terrible. Are you here to donate or request for help? You can also go forward and visit  keralarescue.in to register as a volunteer and for other needs."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539286258,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

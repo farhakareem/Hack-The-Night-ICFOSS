@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1f73d6f9-558e-4957-96e2-79bbd7935d92",
+    "data": [
+      {
+        "text": "blankets",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850286
+  },
+  {
+    "id": "53ec7d49-5f5f-48d1-ab17-06d93656c332",
+    "data": [
+      {
+        "text": "blankets and bed sheets",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850286
+  },
+  {
+    "id": "898bae7a-9780-4fd8-b6e8-099339beb0fa",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bed sheets",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850286
+  },
+  {
+    "id": "b3dfb70f-3889-47dd-9370-409c930d023d",
+    "data": [
+      {
+        "text": "I need",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "blankets",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850286
+  },
+  {
+    "id": "12141afe-5d81-4d9f-8da1-ffd37c32ca8a",
+    "data": [
+      {
+        "text": "bed sheets",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534850286
+  }
+]
